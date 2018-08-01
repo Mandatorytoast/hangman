@@ -1,2 +1,2 @@
 # hangman
-Just a quick hangman implementation in python3
+Just a quick hangman implementation in python3. Nothing special really...
